@@ -60,3 +60,4 @@ class Cell:
 
         line = Line(Point(x_center, y_center), Point(x_center2, y_center2))
         self._win.draw_line(line, fill_color)
+        
